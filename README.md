@@ -5,7 +5,7 @@ A simple **Attendance System** built with **Laravel 11** for managing employees,
 ## Git Repository
 
 ```bash
-git clone https://github.com/your-username/attendance-system.git
+git clone https://github.com/thbappy/attendance-system
 cd attendance-system
 ```
 
